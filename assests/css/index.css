@@ -1,0 +1,59 @@
+.main
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+header
+{
+  background-color: #F0F3F4;
+  font-family: Arial;
+  display: flex;
+  justify-content: space-around;
+  height: 40px;
+  line-height: 40px;
+}
+footer
+{
+  align-content: center;
+  background-color: #F0F3F4;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  display: flex;
+  justify-content: space-around;
+}
+body
+{
+  background-color: gray;
+}
+th,td,table
+{
+  border: 1px solid #ddd;
+  text-align: left;
+  justify-content: center;
+}
+button
+{
+  background-color: cyan;
+  width: 90%;
+  height: 30px;
+
+}
+form
+{
+  text-align: center;
+  background-color: white;
+  width: 200px;
+  font-family: Arial;
+}
+p
+{
+  background-color: #f1f1f1;
+}
+.col
+{
+  height: 20px;
+  text-align: center;
+}
